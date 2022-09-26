@@ -30,3 +30,7 @@ int main()
 ```
 ### 想要学习的东西
 **如果有幸进入程序部学习，我希望学习小程序、软件的制作以及网页的开发，立志成为全栈工程师！**:smile::smile::smile:
+
+*最后给大家看看我好兄弟*
+
+![我的兄弟](https://wx1.sinaimg.cn/orj360/003yHo7Nly1h6d8zcjq6hj60zk1be76y02.jpg)
